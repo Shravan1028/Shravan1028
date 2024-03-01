@@ -9,7 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shravan1028/Shravan1028/output/snake.svg" alt="Snake animation" />
 
 ###
 
